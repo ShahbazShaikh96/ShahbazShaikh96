@@ -7,7 +7,10 @@ Studying Business Analytics with a focus on Machine Learning and Interactive Dat
 
 Reach me at: shaks.shahbaz@gmail.com
 
-# Connect with Me : 
+# Connect with Me : ### Connect with me:
+<a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
 
 ### Languages and Tools:
 <p>
