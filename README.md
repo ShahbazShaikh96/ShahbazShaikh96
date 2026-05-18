@@ -4,7 +4,7 @@
 
 **Business Analytics | Marketing Analytics | Programmatic Advertising | Data Products**
 
-I build practical analytics workflows that turn business, marketing, and advertising data into dashboards, models, and decisions teams can use.
+Turning business questions into decision-ready analytics through dashboards, models, reporting workflows, and marketing measurement.
 
 [LinkedIn](https://www.linkedin.com/in/shahbazshaikh-) | [Email](mailto:shaks.shahbaz@gmail.com) | [GitHub](https://github.com/ShahbazShaikh96)
 
@@ -12,62 +12,167 @@ I build practical analytics workflows that turn business, marketing, and adverti
 
 ---
 
-## Professional Snapshot
+## Mission
 
-M.S. Business Analytics student at Kent State University with experience across business analysis, digital marketing analytics, and programmatic advertising operations. My work combines stakeholder communication, KPI design, SQL/Python reporting, dashboard development, campaign measurement, and predictive modeling.
+I build analytics work that is practical, readable, and tied to business decisions. My background sits between business analysis, marketing analytics, programmatic advertising, and data product development.
 
-| What I Bring | Evidence |
-| --- | --- |
-| Business and data analysis | Requirements gathering, KPI definition, gap analysis, process improvement, ROI analysis, executive reporting |
-| Marketing and ad-tech analytics | Campaign performance, ROAS, CTR, VCR, CPC, viewability, pacing, verification, supply troubleshooting |
-| Technical execution | Python, R, SQL, BI dashboards, ETL, notebooks, APIs, automated reporting workflows |
-| Measurable outcomes | $5M+ portfolio analysis, 30% reporting-effort reduction, 40% operational-efficiency improvement, mismatch reduction from 58% to 8% |
+The common thread across my work: take fragmented data, define the right metrics, clean the workflow, and present the result in a way that teams can trust.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Profile
+
+```yaml
+Name: Shahbaz Shaikh
+Location: Ohio, USA
+Current: M.S. Business Analytics
+University: Kent State University
+Core areas:
+  - Business analysis
+  - Marketing analytics
+  - BI dashboards
+  - Programmatic advertising analytics
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Current Focus
+
+```yaml
+Building:
+  - Interactive data products
+  - Predictive analytics models
+  - Executive-ready dashboards
+  - Marketing measurement workflows
+Interested in:
+  - Business Analyst roles
+  - Data Analyst roles
+  - BI and Marketing Analyst roles
+  - Programmatic / Ad-Tech Analytics roles
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Data Product: NYFS Dashboard
+## Featured Project: NYFS Dashboard
 
-[NYFS Dashboard](https://github.com/ShahbazShaikh96/nyfs-dashboard) is a full data product rather than a one-time notebook: it combines a refresh pipeline, backend service, and user-facing interface for NYC restaurant inspection data.
+[NYFS Dashboard](https://github.com/ShahbazShaikh96/nyfs-dashboard) is my clearest example of a complete data product. It goes beyond notebook analysis by combining a data refresh pipeline, backend API, processed data layer, and interactive frontend.
 
-| Layer | What It Shows |
+| Product Layer | What It Demonstrates |
 | --- | --- |
 | Data pipeline | Scheduled refresh workflow using `update_data.py` and GitHub Actions |
-| Backend | FastAPI service for clean access to processed food-safety data |
+| Backend | FastAPI service for structured access to processed inspection data |
 | Frontend | React and MapLibre interface for exploring NYC restaurant inspection patterns |
 | Data source | NYC Open Data restaurant inspection records |
-| Product thinking | The app avoids hitting the source API on every request, keeping the dashboard faster and more reliable |
+| Product design | Avoids calling the source API on every request, making the dashboard faster and more reliable |
 
-**Why it matters:** NYFS presents public inspection data in a way that is more usable for decision-making: location-aware, refreshed, and structured as a product rather than a one-time report.
+**Why this project matters:** Public datasets are often hard to use in their raw form. NYFS turns restaurant inspection data into something easier to explore, compare, and understand.
 
 **Repository:** [github.com/ShahbazShaikh96/nyfs-dashboard](https://github.com/ShahbazShaikh96/nyfs-dashboard)
 
 ---
 
-## Selected Projects
+## Flagship Projects
 
-| Project | Focus | Tools |
-| --- | --- | --- |
-| [NYFS Dashboard](https://github.com/ShahbazShaikh96/nyfs-dashboard) | Public food-safety intelligence product with refresh pipeline, API, and interactive map interface | Python, FastAPI, React, MapLibre, GitHub Actions |
-| [Loan Default and Loss Prediction](https://github.com/ShahbazShaikh96/loan-default-loss-prediction) | Two-stage credit-risk modeling for default classification and loss severity prediction | Python, R, Logistic Regression, Random Forest, XGBoost |
-| [Hybrid Indexing for Big Data Query Routing](https://github.com/ShahbazShaikh96/hybrid-indexing-big-data) | Metadata-guided indexing prototype for efficient distributed query routing | Python, benchmarking, data structures |
-| [Customer Churn Analysis](https://github.com/ShahbazShaikh96/Customer-Churn-Analysis) | Churn-driver analysis, risk segmentation, and retention recommendations | R, R Markdown, ggplot2, caret |
-| [E-Commerce Customer Analysis](https://github.com/ShahbazShaikh96/E-Commerce-Customer-Analysis) | Customer spending prediction and business recommendations | Python, Jupyter, regression analysis |
-| [Contextual Ad Network MVP](https://github.com/ShahbazShaikh96/contextual-ad-network) | Privacy-first contextual advertising concept without tracking or cookies | JavaScript, ad-tech product design |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### NYFS Dashboard
+
+**Public food safety intelligence product for NYC restaurant inspection data**
+
+A dashboard with scheduled data refresh, FastAPI backend, and React/MapLibre frontend for exploring food safety patterns.
+
+**Shows:** data products, API design, dashboard development, public data processing
+
+**Stack:** `Python` `FastAPI` `React` `MapLibre` `GitHub Actions`
+
+**Repository:** [NYFS Dashboard](https://github.com/ShahbazShaikh96/nyfs-dashboard)
+
+</td>
+<td width="50%" valign="top">
+
+### Loan Default and Loss Prediction
+
+**Machine learning framework for credit risk analytics**
+
+A two-stage modeling project for default classification and loss severity prediction using statistical and machine learning methods.
+
+**Shows:** predictive modeling, model comparison, business risk framing
+
+**Stack:** `Python` `R` `Jupyter` `Random Forest` `XGBoost`
+
+**Repository:** [Loan Default and Loss Prediction](https://github.com/ShahbazShaikh96/loan-default-loss-prediction)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Hybrid Indexing for Big Data Query Routing
+
+**Prototype for efficient distributed query routing**
+
+A metadata-guided indexing prototype comparing centralized, fully distributed, and hybrid query strategies across partitioned records.
+
+**Shows:** benchmarking, data structures, distributed-systems thinking
+
+**Stack:** `Python` `Benchmarking` `Data Structures`
+
+**Repository:** [Hybrid Indexing](https://github.com/ShahbazShaikh96/hybrid-indexing-big-data)
+
+</td>
+<td width="50%" valign="top">
+
+### Contextual Ad Network MVP
+
+**Privacy-first advertising concept without tracking or cookies**
+
+A contextual advertising MVP built around page classification and content enrichment, aligned with programmatic advertising and privacy-first measurement.
+
+**Shows:** ad-tech product thinking, contextual targeting, marketing analytics
+
+**Stack:** `JavaScript` `Ad Tech` `Contextual Targeting`
+
+**Repository:** [Contextual Ad Network](https://github.com/ShahbazShaikh96/contextual-ad-network)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Additional Repository Work
+## Additional Analytics Work
 
-These repositories show the surrounding analytics, modeling, and coursework behind the featured projects.
-
-| Repository | What It Demonstrates |
+| Project | What It Shows |
 | --- | --- |
+| [Customer Churn Analysis](https://github.com/ShahbazShaikh96/Customer-Churn-Analysis) | Churn drivers, risk segmentation, retention recommendations, predictive modeling in R |
+| [E-Commerce Customer Analysis](https://github.com/ShahbazShaikh96/E-Commerce-Customer-Analysis) | Customer spending prediction and business recommendations through regression analysis |
 | [Interactive Data Projects](https://github.com/ShahbazShaikh96/Interactive_Data_Projects) | Pandas, Plotly, Matplotlib, Seaborn, data cleaning, and interactive data coursework |
 | [Advanced Data Mining and Predictive Analytics](https://github.com/ShahbazShaikh96/Advance-Data-Mining-Predictive-Analytics) | Data preprocessing, machine learning models, neural networks, and model evaluation |
-| [Advanced Machine Learning](https://github.com/ShahbazShaikh96/sshaikh7_AdvanceMachineLearning) | Neural networks, image classification, and applied ML assignments |
+| [Advanced Machine Learning](https://github.com/ShahbazShaikh96/sshaikh7_AdvanceMachineLearning) | Neural networks, image classification, and applied machine learning assignments |
 | [NYC Restaurant Food Safety Dashboard](https://github.com/ShahbazShaikh96/NYC-Restaurant-Food-Safety-Dashboard) | Earlier dashboard exploration of NYC restaurant inspection data |
-| [Machine Learning Projects](https://github.com/ShahbazShaikh96/-Machine-Learning-ML-Projects) | Applied machine learning assignments and modeling practice |
 | [Quantitative Management Modelling](https://github.com/ShahbazShaikh96/Quantitaive-Management-Modelling-Projects) | Quantitative decision modeling coursework |
+
+---
+
+## Experience Signals
+
+| Area | Evidence |
+| --- | --- |
+| Business analysis | Requirements gathering, stakeholder management, KPI definition, gap analysis, process improvement, ROI analysis |
+| Marketing analytics | Campaign performance, funnel analysis, attribution, segmentation, A/B testing, dashboard reporting |
+| Programmatic advertising | CTV, video, display, PMPs, preferred deals, pacing, verification, supply troubleshooting |
+| Reporting automation | SQL and Python workflows that reduced manual reporting effort by 30% |
+| Operational impact | Process and workflow analysis that improved operational efficiency by 40% |
+| Data quality | Reporting discrepancy investigation that reduced tracking mismatch from 58% to 8% |
 
 ---
 
@@ -84,15 +189,15 @@ These repositories show the surrounding analytics, modeling, and coursework behi
 
 ---
 
-## Experience Themes
+## How I Think About Analytics
 
-**Business analysis:** I translate operational questions into metrics, reports, process maps, and recommendations that stakeholders can act on.
+**Clarity first:** A good analysis should make the next decision easier.
 
-**Marketing analytics:** I work with campaign performance, funnel analysis, customer segmentation, attribution, dashboards, and testing workflows.
+**Business context matters:** Metrics only help when they are tied to a real process, audience, cost, risk, or opportunity.
 
-**Programmatic advertising:** I have hands-on exposure to campaign pacing, CTV/video/display optimization, PMPs, preferred deals, verification workflows, and reporting discrepancy analysis.
+**Dashboards should be usable:** A dashboard is not finished when it looks good. It is finished when someone can use it to answer a question without extra explanation.
 
-**Data products:** I am building toward analytics work that is reusable, documented, and productized rather than isolated in one-off notebooks.
+**Models need interpretation:** Predictive work should explain what matters, why it matters, and how the result can be used.
 
 ---
 
