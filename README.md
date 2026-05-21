@@ -135,9 +135,9 @@ A metadata-guided indexing prototype comparing centralized, fully distributed, a
 
 **Privacy-first advertising concept without tracking or cookies**
 
-A contextual advertising MVP built around page classification and content enrichment, aligned with programmatic advertising and privacy-first measurement.
+A front-end contextual advertising prototype that summarizes visible page content and reserves a future path for classification and ad decisioning, aligned with programmatic advertising and privacy-first measurement.
 
-**Shows:** ad-tech product thinking, contextual targeting, marketing analytics
+**Shows:** ad-tech product thinking, contextual signals, marketing analytics
 
 **Stack:** `JavaScript` `Ad Tech` `Contextual Targeting`
 
@@ -157,7 +157,7 @@ A contextual advertising MVP built around page classification and content enrich
 | [E-Commerce Customer Analysis](https://github.com/ShahbazShaikh96/E-Commerce-Customer-Analysis) | Customer spending prediction and business recommendations through regression analysis |
 | [Interactive Data Projects](https://github.com/ShahbazShaikh96/Interactive_Data_Projects) | Pandas, Plotly, Matplotlib, Seaborn, data cleaning, and interactive data coursework |
 | [Advanced Data Mining and Predictive Analytics](https://github.com/ShahbazShaikh96/Advance-Data-Mining-Predictive-Analytics) | Data preprocessing, machine learning models, neural networks, and model evaluation |
-| [Advanced Machine Learning](https://github.com/ShahbazShaikh96/sshaikh7_AdvanceMachineLearning) | Neural networks, image classification, and applied machine learning assignments |
+| [Advanced Machine Learning](https://github.com/ShahbazShaikh96/sshaikh7_AdvanceMachineLearning) | Sentiment analysis, CNN transfer learning, time-series forecasting, embeddings, and efficient classification workflows |
 | [NYC Restaurant Food Safety Dashboard](https://github.com/ShahbazShaikh96/NYC-Restaurant-Food-Safety-Dashboard) | Earlier dashboard exploration of NYC restaurant inspection data |
 | [Quantitative Management Modelling](https://github.com/ShahbazShaikh96/Quantitaive-Management-Modelling-Projects) | Quantitative decision modeling coursework |
 
