@@ -2,7 +2,7 @@
 
 # Shahbaz Shaikh
 
-**Business Analytics | Marketing Analytics | Programmatic Advertising | Data Products**
+**Business Analytics | Marketing Analytics | Programmatic Advertising | Data Engineering**
 
 Turning business questions into decision-ready analytics through dashboards, models, reporting workflows, and marketing measurement.
 
