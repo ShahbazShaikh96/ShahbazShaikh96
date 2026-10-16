@@ -180,7 +180,7 @@ A front-end contextual advertising prototype that summarizes visible page conten
 
 | Category | Tools and Methods |
 | --- | --- |
-| Languages | Python, R, SQL, JavaScript |
+| Languages | Python, R, SQL,|
 | Analytics | Statistical analysis, predictive modeling, A/B testing, cohort analysis, forecasting, segmentation |
 | BI and visualization | Amazon QuickSight, Power BI, Tableau, Plotly, Matplotlib, Seaborn, executive dashboards |
 | Data engineering | ETL, data cleaning, API integration, database management, data warehousing concepts |
